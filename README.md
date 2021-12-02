@@ -23,5 +23,8 @@ pip3 install selenium
 버전이 맞지 않아 실행이 되지 않을 수 있으니,    
 chrome 버전 확인 후, chromedriver 재설치하면 해결 가능
 
+### To do
+- url 실행 시, 팝업창 자동 확인 처리
+
 ### 참고
 [Zoom URL Schemes](https://medium.com/zoom-developer-blog/zoom-url-schemes-748b95fd9205)
